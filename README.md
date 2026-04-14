@@ -22,6 +22,11 @@ Each script reads sessions directly from `~/.claude/projects/` — no export nee
 | `sessions_to_anki.py` | `.apkg` | Anki flashcard deck — study your own conversations |
 | `sessions_to_midi.py` | `.mid` | Your chat history as a MIDI file |
 | `sessions_to_sc.py` | `.scd` | SuperCollider score — generative music from your sessions |
+| `sessions_to_receipt.py` | HTML | Thermal receipt printouts — itemised tool calls, chaos level |
+| `sessions_to_tarot.py` | HTML | Major Arcana reading — each session assigned a tarot card |
+| `sessions_to_newsletter.py` | HTML | Weekly digest newsletter grouped by ISO week |
+| `sessions_to_horoscope.py` | HTML | Astrological reading derived from your session patterns |
+| `sessions_to_zine.py` | HTML | Lo-fi cut-and-paste zine with cover, contents, and session cards |
 
 ---
 
