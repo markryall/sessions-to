@@ -10,6 +10,7 @@ Each script reads sessions directly from `~/.claude/projects/` — no export nee
 
 | Script | Output | What it does |
 |--------|--------|-------------|
+| `sessions_to_3d.py` | HTML | 3D galaxy — sessions as glowing spheres, drag to orbit |
 | `sessions_to_html.py` | HTML directory | Browsable static site of all sessions |
 | `sessions_to_epub.py` | `.epub` | E-reader format for reminiscing on the go |
 | `sessions_to_typst.py` | `.typ` / PDF | Typeset document via [Typst](https://typst.app) |
